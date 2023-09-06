@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👀 I'm intrested in all things internet,dev-ops and game-dev.
+- 🌱 I’m currently learning ...web development and dev-ops.
+- 👯 I’m looking to collaborate on ...game development or web apps.
+- 🖥 Coding for fun at the moment but i wish to code for fun and money soon.
+<h1>✌</h1>
 
 <!--
 **Ahmed-Armaan/Ahmed-Armaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
