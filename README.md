@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👀 I'm intrested in all things internet,dev-ops and game-dev.
 - 🌱 I’m currently learning ...System Programming and web development.
-- 👯 I’m looking to collaborate on ...game development or web apps.
+- 👯 I’m looking to collaborate on ...System Programming and web dev.
 - 🖥 Coding for fun at the moment but i wish to code for fun and money soon.
 <h1>✌</h1>
 
