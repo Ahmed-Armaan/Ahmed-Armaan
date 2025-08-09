@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👀 I'm intrested in all things internet,dev-ops and game-dev.
+- 👀 I'm intrested in all things internet and game-dev.
 - 🌱 I’m currently learning ...System Programming and web development.
 - 👯 I’m looking to collaborate on ...games or web apps.
 - 🖥 Coding for fun at the moment but i wish to code for fun and money soon.
